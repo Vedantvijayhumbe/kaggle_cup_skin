@@ -1,4 +1,4 @@
-# KAGGLE CUP : SKIN (2025 ) CNN
+# SKIN DISEASE PREDICITION USING CNN
 task is to predict the class of each skin lesion image in the dataset, correctly classifying it into one of the following 13 categories:
 
 Basal Cell Carcinoma
